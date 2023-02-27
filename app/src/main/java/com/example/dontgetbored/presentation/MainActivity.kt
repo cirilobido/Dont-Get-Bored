@@ -1,4 +1,4 @@
-package com.example.dontgetbored
+package com.example.dontgetbored.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.dontgetbored.ui.theme.DontGetBoredTheme
+import com.example.dontgetbored.presentation.theme.DontGetBoredTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

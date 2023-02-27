@@ -1,4 +1,4 @@
-package com.example.dontgetbored.ui.theme
+package com.example.dontgetbored.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
